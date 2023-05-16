@@ -18,7 +18,8 @@ O projeto envolverá as seguintes etapas:
 
 
 **Descrição do dataframe**
-__Informações do Proejeto__
+
+**Informações do Proejeto**
 
 1.  ID do projeto: identificador único para cada projeto
 2.  Data de início: data de início do projeto
@@ -26,7 +27,7 @@ __Informações do Proejeto__
 4.  Orçamento: Orçamento estimado para o projeto
 5.  Categoria: categoria do projeto (por exemplo, construção civil, infraestrutura, reforma, etc.)
 
-__Informações dos recursos__
+**Informações dos recursos**
 
 1. Id do recursos: identificador único: identificador para cada recurso utilizado no projeto
 2. Nome do recurso: nome do recurso envolvido no proejto
@@ -35,7 +36,7 @@ __Informações dos recursos__
 5. Data da alocação: Data em que os recursos foram alocados
 6. Horas alocadas: quantidade de horas que um recurso específico foi designado para trabalhar em um determinado projeto. É uma medida da carga horária atribuída a um recurso em um determinado perído de tempo.
 
-__ Projeto da análise de dados__
+**Projeto da análise de dados**
 
 Aqui estão os tópicos que iremos explorar nesse conjunto de dados:
 
