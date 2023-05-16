@@ -8,7 +8,7 @@ Nesse portfolio irei apresentar para vocês meus projetos de análise de dados e
 
 O objetivo principal deste projeto é explorar e analisar os dados disponíveis na Empreiteira XYZ, com foco em identificar padrões, tendências e oportunidades para otimização de processos.
 
-** Escopo do projeto**:
+**Escopo do projeto**:
 
 O projeto envolverá as seguintes etapas:
 
