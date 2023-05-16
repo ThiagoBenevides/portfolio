@@ -48,17 +48,31 @@ Aqui estão os tópicos que iremos explorar nesse conjunto de dados:
     c. Examine a relação entre o orçamento estimado e a duração real dos projetos
     
 2. Distribuição de recursos por função:
+
     a. Identifique as funções de recursos mais demandadas nos projetos
+    
     b. Analise a distribuição de recursos por função ao longo do tempo
+    
     c.Verifique se há escassez de recurso em alguma função específica
+    
 3. Otimização de alocação de recursos:
+
     a. Analise e eficiência da alocação de recursos em diferentes projetos
+    
     b. Identifique os projetos que excederam o orçamento ou tiveram atrasos   significativos
+    
     c. Avalie se os recursos foram alocados de maneira adequada para cada projeto
+    
 4. Análise de custos:
+
     a. Calcule o custo total por projeto e por categoria
+    
     b. Identifique projetos com maiores variações de custo em relação ao orçamento estimado
+    
     c Analise a relação entre o custo total e a satisfação do cliente
+    
 5. Previsão e modelos preditivos
+
     a. Desenvolva modelos para prever a duração do proejto,o custo total
+    
     b. Avalie a precisão desses modelos e identifique os principais fatores que influenciam essas previsões.
