@@ -40,9 +40,13 @@ __ Projeto da análise de dados__
 Aqui estão os tópicos que iremos explorar nesse conjunto de dados:
 
 1. Análise temporal dos projetos:
+
     a. Identifique os perídos de maior atividade da empreiteira ao longo do tempo
+    
     b. Analise a duração média dos projetos e sua distribuição
+    
     c. Examine a relação entre o orçamento estimado e a duração real dos projetos
+    
 2. Distribuição de recursos por função:
     a. Identifique as funções de recursos mais demandadas nos projetos
     b. Analise a distribuição de recursos por função ao longo do tempo
